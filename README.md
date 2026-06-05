@@ -36,8 +36,7 @@ notebooks/hangman_with_hints.ipynb
 
 ```text
 hangman.py      Main Python script
-notebooks/      Original notebook version
-images/         Screenshots of the game
+hangman_with_hints.ipynb     Original notebook version
 ```
 
 ## What I Practiced
