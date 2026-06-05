@@ -4,14 +4,18 @@ This is a simple command-line Hangman game built with Python.
 
 The project was created as part of my Python learning practice to strengthen my understanding of loops, conditionals, functions, strings, lists, and user input.
 
+## Files
+
+- `hangman.py` — main Python script version of the game
+- `hangman_with_hints.ipynb` — notebook version created during practice
+
 ## Features
 
-- Random word selection
 - Letter-by-letter guessing
+- Hidden word display
 - Attempt tracking
 - Win/loss condition
-- Basic input validation
-- Hangman drawing after wrong guesses
+- Basic hints
 
 ## Tools Used
 
@@ -20,26 +24,11 @@ The project was created as part of my Python learning practice to strengthen my 
 
 ## How to Run
 
-Run the Python script from the terminal:
-
 ```bash
 python hangman.py
 ```
 
-You can also open the notebook version here:
-
-```text
-notebooks/hangman_with_hints.ipynb
-```
-
-## Repository Structure
-
-```text
-hangman.py      Main Python script
-hangman_with_hints.ipynb     Original notebook version
-```
-
-## What I Practiced
+## What I Practised
 
 - Python functions
 - While loops
